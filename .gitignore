@@ -1,0 +1,12 @@
+# Original hi-res source art (not used by the site — assets/ has the
+# compressed versions actually referenced by index.html). Kept locally
+# for future re-edits; excluded so it never bloats the GitHub repo.
+material/
+
+# Local-only preview tooling
+server.ps1
+.claude/
+
+# OS junk
+Thumbs.db
+.DS_Store
